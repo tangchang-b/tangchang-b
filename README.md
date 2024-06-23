@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tangchang-b
-- 👀 I’m interested in web3 Remote
+- 👀 I’m interested in Bitcoin/frontend Remote
 - 🌱 I’m currently learning bitcoin
 
 - ⚡ Fun fact: hodl bitcoin two years
