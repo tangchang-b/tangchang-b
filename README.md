@@ -13,3 +13,5 @@ Good luck me
 Today i apply to github eduction succeffly
 I know github many years but dont know how to use it
 Using freecodecamp is comfortable 
+
+able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious. -be patient           
