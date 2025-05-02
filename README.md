@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tangchang-b
 - 👀 I’m interested in Bitcoin/frontend Remote
 - 🌱 I’m currently learning bitcoin
-- ⚡ Fun fact: hodl bitcoin two years
+- ⚡ Fun fact: hodl bitcoins
 
 <!---
 tangchang-b/tangchang-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
